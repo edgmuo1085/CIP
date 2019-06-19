@@ -1,5 +1,5 @@
-# Desarrollado por: Edgar Muñoz
-# Número aleatorios
+# Desarrollado por: Edgar Muñoz.
+# Número aleatorios.
 
 #### Librerias ####
 import os # Librería para limpiar pantalla
